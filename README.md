@@ -1,6 +1,6 @@
 🎵 Blink Music Controller
 
-**Blink Music Controller** is a hands-free, eye-blink-based controller for your media player.  
+**Blink_To_Play** is a hands-free, eye-blink-based controller for your media player.  
 It lets you use **facial gestures** (left eye, right eye, or both blinks) to simulate media keys like play/pause, next/previous track, and even seeking — just by blinking.
 
 Perfect for:
